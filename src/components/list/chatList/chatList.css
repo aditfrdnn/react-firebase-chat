@@ -1,0 +1,40 @@
+.search{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+
+    .searchBar{
+        flex: 1;
+        background-color: rgba(17, 25, 40, 0.5);
+        display: flex;
+        align-items: center;
+        border-radius: 12px;
+        gap: 20px;
+        padding: 14px;
+
+        input{
+            background-color: transparent;
+            border: none;
+            color: white;
+            outline: none;
+            flex: 1;
+        }
+
+        img{
+            width: 14px;
+            height: 14px;
+        }
+    }
+    .add{
+        width: 40px;
+        height: 40px;
+        background-color: rgba(17, 25, 40, 0.5);
+        padding: 10px;
+        border-radius: 10px;
+        cursor: pointer;
+    
+    }
+
+
+}
