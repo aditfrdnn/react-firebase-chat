@@ -55,6 +55,13 @@ const Chat = () => {
                 <span>1 minute ago</span>
               </div>
         </div>
+        <div className="message own">
+              <div className="text">
+              <img src="./parfume.jpg" alt="" />
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vulputate nunc a magna fermentum, nec laoreet orci pellentesque. Ut quis semper nisl, ac elementum eros. Aliquam erat volutpat. Vestibulum faucibus justo nec lacinia pretium. Integer a ex mauris. Fusce ac suscipit erat. Vivamus fringilla, nunc at cursus pulvinar, sapien felis venenatis sem, a convallis nunc nunc nec dui.</p>
+                <span>1 minute ago</span>
+              </div>
+        </div>
 
       </div>
       <div className="bottom">
